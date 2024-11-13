@@ -31,10 +31,16 @@ Through these features and technologies, UH Marketplace aims to become an essent
 ## Key Features
 
 - **Product Listings**: Browse through a vast collection of items listed by sellers.
-  
+
+![](images/hex-landing-page.jpg)
+
 - **User Profiles**: Create a profile to manage your listings, purchases, and reviews.
+
+![](images/amazonsign-in.jpg)
   
 - **Reviews and Ratings**: Leave feedback for sellers and buyers to build trust within the community.
+
+![](images/reviews.jpg)
 
 ---
 
