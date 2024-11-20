@@ -8,6 +8,12 @@
 * [Support](#support)
 * [Stay Connected](#stay-connected)
 
+## Team Contract
+[UHM Marketplace Project Team Contract](https://docs.google.com/document/d/1OrdN7T1u43kKi0lD1YMrSia3feM4pP5XNusmPdG4JrQ/edit?usp=sharing)
+
+## Deployment
+[View UHM Marketplace](https://mnm-final-o73czpymj-manoa-now-marketplaces-projects.vercel.app/)
+
 ## About UHM Marketplace
 
 UHM Marketplace is a comprehensive platform for University of Hawai‘i students and staff to buy, sell, and trade a wide variety of items, from electronics and textbooks to collectibles and accessories. Modeled after popular platforms like Amazon and eBay, UH Marketplace aims to provide users with a seamless and secure shopping experience tailored to the university community.
