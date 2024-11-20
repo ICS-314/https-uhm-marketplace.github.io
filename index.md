@@ -40,9 +40,11 @@ Through these features and technologies, UH Marketplace aims to become an essent
 
 ![](images/hex-landing-page.jpg)
 
-- **User Profiles**: Create a profile to manage your listings, purchases, and reviews.
+- **User Profiles**: Create a profile to manage your listings, purchases, and reviews. <br>
+*Users will create a profile using their University of Hawaii email (ending in @hawaii.edu) in order to secure the community that will be using the marketplace. Users must sign in before they are able to purchase, sell, or make any kind of transaction.*
 
-![](images/amazonsign-in.jpg)
+![](images/sign-up.png)
+![](images/create-profile.png)
   
 - **Reviews and Ratings**: Leave feedback for sellers and buyers to build trust within the community.
 
