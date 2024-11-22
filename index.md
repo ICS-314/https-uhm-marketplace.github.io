@@ -16,11 +16,13 @@
 
 ## Project Pages
 
-We decided to use Linear for issue management
+We decided to use [Linear](https://linear.app/features) for issue management instead of the GitHub template.
 
 [M1 Project Page](https://linear.app/manoa-flea-marketplace/team/MAN/all)
+![](images/m1.png)
 
-[M2 Project Page]()
+[M2 Project Page](https://linear.app/manoa-flea-marketplace/team/MAN/all)
+![](images/m2.png)
 
 ## About UHM Marketplace
 
