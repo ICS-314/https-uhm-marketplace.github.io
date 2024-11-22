@@ -12,7 +12,7 @@
 [UHM Marketplace Project Team Contract](https://docs.google.com/document/d/1OrdN7T1u43kKi0lD1YMrSia3feM4pP5XNusmPdG4JrQ/edit?usp=sharing)
 
 ## Deployment
-[View UHM Marketplace](https://mnm-final-o73czpymj-manoa-now-marketplaces-projects.vercel.app/)
+[View UHM Marketplace](https://m-n-m-final-57v5pzzu2-manoa-now-marketplaces-projects.vercel.app/)
 
 ## Project Pages
 
