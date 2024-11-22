@@ -14,6 +14,14 @@
 ## Deployment
 [View UHM Marketplace](https://mnm-final-o73czpymj-manoa-now-marketplaces-projects.vercel.app/)
 
+## Project Pages
+
+We decided to use Linear for issue management
+
+[M1 Project Page](https://linear.app/manoa-flea-marketplace/team/MAN/all)
+
+[M2 Project Page]()
+
 ## About UHM Marketplace
 
 UHM Marketplace is a comprehensive platform for University of Hawai‘i students and staff to buy, sell, and trade a wide variety of items, from electronics and textbooks to collectibles and accessories. Modeled after popular platforms like Amazon and eBay, UH Marketplace aims to provide users with a seamless and secure shopping experience tailored to the university community.
