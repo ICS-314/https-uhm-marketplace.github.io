@@ -55,6 +55,8 @@ Through these features and technologies, UH Marketplace aims to become an essent
 
 ![](images/sign-up.png)
 ![](images/create-profile.png)
+
+- **My Cart/Purchases**: Users will be able to click on their carts and see what they added and can proceed to make a transaction after reviewing their items.
   
 - **Reviews and Ratings**: Leave feedback for sellers and buyers to build trust within the community.
 
