@@ -15,7 +15,7 @@
 [View UHM Marketplace](https://m-n-m-final-57v5pzzu2-manoa-now-marketplaces-projects.vercel.app/)
 
 ## ER Diagram
-![](images/erdiagram)
+![](images/erdiagram.pdf)
 
 ## Project Pages
 
