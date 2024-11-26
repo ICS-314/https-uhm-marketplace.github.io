@@ -14,6 +14,9 @@
 ## Deployment
 [View UHM Marketplace](https://m-n-m-final-57v5pzzu2-manoa-now-marketplaces-projects.vercel.app/)
 
+## ER Diagram
+![](images/erdiagram)
+
 ## Project Pages
 
 We decided to use [Linear](https://linear.app/features) for issue management instead of the GitHub template.
