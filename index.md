@@ -63,7 +63,7 @@ Through these features and technologies, UH Marketplace aims to become an essent
   
 - **Reviews and Ratings**: Leave feedback for sellers and buyers to build trust within the community.
 
-![](images/reviews.jpg)
+![](images/mreviews.jpg)
 
 ---
 
