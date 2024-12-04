@@ -136,6 +136,105 @@ Through these features and technologies, UH Marketplace aims to become an essent
 
 ## Developer Guide
 
+**Prerequisites**
+- *Node.js* and *npm* (for running JavaScript code and managing dependencies)
+- *PostgreSQL* (for database management)
+- *Git* (for cloning the repository and version control)
+- *Prisma CLI* (for interacting with the database)
+- *Next.js* (for the web framework used in the project)
+- *React Bootstrap CSS* (for UI components and styling)
+- *VSCode* or another code editor
+- *pgAdmin* (for easier PostgreSQL management)
+
+
+**Step 1: Prepare the Project**
+1. Find the BowFolios Template:
+- Google for the template **"BowFolios"**, which is a web application designed by Cam Moore and Phillip Johnson for ICS software engineering students.
+- Then go to the template's GitHub page.
+2. Create a New Repository:
+- On the GitHub page, click on **"View on GitHub"**.
+- Click on **"Use this template"** and then click **"Create a new repository"**.
+- Fill out the repository details, such as the repository name, description, and visibility (private/public), then click **“Create repository”**.
+
+**Step 2: Initialize the Postgres Database**
+1. Open a terminal window in VSCode:
+- Open your project folder in VSCode.
+- Open the integrated terminal by selecting Terminal > New Terminal or using the shortcut Ctrl+`.
+2. Create the PostgreSQL Database: 
+Run the following command to create the *bowfolios* database in PostgreSQL:
+```
+createdb bowfolios
+```
+- This command will create a new database named bowfolios on your local PostgreSQL server.
+
+**Step 3: Configure the .env file**
+1. Copy the sample.env File:
+- Copy the file sample.env (which is already provided in the project template)
+- Rename the copied file to .env
+2. Edit the .env File:
+- Open the .env file in VSCode and modify the DATABASE_URL connection string to match your PostgreSQL setup. It should look like this:
+```
+“DATABASE_URL=postgresql://<username>:<password>@localhost:5432/bowfolios?schema=public”
+```
+- Replace <username> and <password> with your actual PostgreSQL username and password.
+- If your PostgreSQL server is running on a different port, adjust the port number (default is 5432)
+
+**Step 4: Initialize Prisma**
+1. Install Dependencies:
+- Before initializing Prisma, you need to install the necessary dependencies. Run the following command in the terminal:
+```
+npm install react-bootstrap prisma @prisma/client next-auth react-bootstrap-icons
+```
+- This will install the required dependencies for React, Prisma, Bootstrap, NextAuth, and React Bootstrap Icons
+
+2. Install Bootstrap CSS:
+- In your pages/app.js(or pages/app.tsx for TypeScript), import Boostrap CSS:
+```
+import 'bootstrap/dist/css/bootstrap.min.css';
+```
+3. Initialize Prisma:
+- Run the following command to initialize Prisma and generate the Prisma client:
+```
+npx prisma init
+```
+**Step 5: Configure the Database Connection in Prisma**
+1. Configure the schema.prisma File:
+- Open the prisma/schema.prisma file.
+- Modify the datasource block to match your database configuration:
+```
+datasource db {
+  provider = "postgresql"  // Change this if using a different database
+  url      = env("DATABASE_URL")
+}
+```
+- This tells Prisma to use the connection URL from the .env file.
+
+**Step 6: Migrate the Database**
+1. Run the Database Migration:
+- Run the following command to apply the migrations and create the necessary tables in your PostgreSQL database:
+```
+npx prisma migrate dev
+```
+- This will apply the migration and create tables in the bowfolios database based on your Prisma schema
+
+**Step 7: Seed the Database**
+1. Seed the Database with Sample Data:
+- To populate your database with sample data, run the following command:
+```
+npx prisma db seed
+```
+- This command will insert sample data into the database, which is typically defined in the prisma/seed.js (or seed.ts if using TypeScript)
+
+**Step 8: Run the Next.js Application**
+1. Start the Next.js Development Server:
+- Run the following command to start the development server:
+```
+npm run dev
+```
+- This will start the Next.js app, and it should now be running locally.
+2. Open the Application in your browser:
+- Go to http://localhost:3000 in your web browser.
+- Check the console for any errors and make sure the new landing page displays correctly.
 
 ---
 
