@@ -24,8 +24,10 @@ We decided to use [Linear](https://linear.app/features) for issue management ins
 [M1 Project Page](https://linear.app/manoa-flea-marketplace/team/MAN/all)
 ![](images/m1.png)
 
-[M2 Project Page](https://linear.app/manoa-flea-marketplace/team/MAN/all)
+[M2 Project Page](https://linear.app/manoa-flea-marketplace/team/MAN/label/m2)
 ![](images/m2.png)
+
+[M3 Project Page](https://linear.app/manoa-flea-marketplace/team/MAN/all)
 
 ## About UHM Marketplace
 
