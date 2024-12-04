@@ -69,12 +69,66 @@ Through these features and technologies, UH Marketplace aims to become an essent
 
 ## User Guide
 
-1. **Sign Up**: Create an account to start buying or selling.
-2. **Browse Items**: Use the search bar or categories to find items you want.
+1. **Getting Started**
+- Sign Up
+- Click on the Sign Up button in the top-right corner of the homepage.
+- Provide your email, create a password, and complete the required information.
+- Verify your account via the confirmation email sent to you.
+- Once signed in, you can access additional features like creating listings, managing your profile, and viewing transaction history.
+- Log In
+  - *Already have an account?* Use the Sign In option from the same menu to access your account.
+  - *Forgot your password?* Use the "Forgot Password" link to reset it.
+
+2. **Browse Items**:
+- Search Bar
+  - Use the search bar at the top of the page to quickly find items by name, category, or keywords.
+  - Suggestions may appear as you type for faster navigation.
+- Categories
+  - Explore items by categories like Digital HQ, Dorm Life, Self-Care, and more.
+  - Categories are accessible through the dropdown menu in the navbar or from the homepage.
+- Filters
+  - Narrow your search using filters:
+  - Price Range: Set a minimum and maximum price.
+  - Popularity: Sort by ratings or number of reviews.
+
 3. **Make Transactions**:
-    - For Buyers: Add items to your cart and proceed to checkout.
-    - For Sellers: List your items with detailed descriptions and pricing.
-4. **Leave Feedback**: Rate your experience to help improve the marketplace.
+- *For Buyers:*
+  - Add Items to Cart:
+    - Click the "Add to Cart" button on the item page.
+    - View your cart to adjust quantities or remove items.
+  - Checkout:
+    - Proceed to checkout and review your items.
+    - Enter your shipping and payment details.
+    - Confirm your order to complete the purchase.
+  - Order Tracking:
+    - Check the status of your order in your Account Dashboard under the Orders section. <br>
+
+- *For Sellers:*
+  - List Your Items:
+  - Go to the Sell section in the navbar.
+  - Fill out the listing form with the following details:
+    - Title: Name of the item.
+    - Category: Select the appropriate category.
+    - Price: Set a reasonable price.
+    - Condition: Choose from New, Like New, or Used.
+    - Description: Add a detailed description, including dimensions, features, and any issues.
+    - Images: Upload clear photos of the item.
+  - Manage Listings:
+    - View and edit your listings under your Account Dashboard in the My Listings section.
+    - Mark items as sold or update details when needed.
+  - Handle Transactions:
+    - Respond promptly to buyer inquiries.
+    - Ship items quickly if required, or coordinate local pickup.
+
+4. **Leave Feedback**:
+- Write a Review
+  - Go to the Reviews section after completing a transaction.
+  - Provide a rating (1–5 stars) and leave a detailed review about the product and/or the seller.
+  - Be honest and constructive in your feedback.
+- Read Reviews
+  - Check reviews on product pages to learn about other users' experiences before buying.
+  - Use reviews to guide your purchasing decisions.
+
 
 ---
 
