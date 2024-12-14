@@ -144,48 +144,43 @@ We invited five community members to test UHM Marketplace and collected their in
 
 ### 1. Alex (Student - Regular Online Shopper)
 **Feedback:**
-- "The design feels intuitive, and I love how responsive it is on my phone. However, the product filtering could be more detailed, like adding subcategories."
+  - "The design feels intuitive, and I love how responsive it is on my phone. However, the product filtering could be more detailed, like adding subcategories."
 **Suggestions:**
-- Add more filtering options such as by condition (new/used) or seller rating.
+  - Add more filtering options such as by condition (new/used) or seller rating.
 **Experience:**
-- Positive overall; Alex appreciated the quick loading times and clean layout.
+  - Positive overall; Alex appreciated the quick loading times and clean layout.
 
 ### 2. Jamie (Faculty - New to Online Marketplaces)
 **Feedback:**
-- "The sign-up process was smooth, but I was a bit confused about how to list an item for sale initially. A tutorial would be helpful."
+  - "The sign-up process was smooth, but I was a bit confused about how to list an item for sale initially. A tutorial would be helpful."\n
 **Suggestions:**
-- Include a step-by-step guide or onboarding video for new sellers.
+  - Include a step-by-step guide or onboarding video for new sellers.
 **Experience:**
-- Found the platform user-friendly after spending a few minutes exploring.
+  - Found the platform user-friendly after spending a few minutes exploring.
 
 ### 3. Sam (Alumni - Tech Enthusiast)
 **Feedback:**
-- "I really liked the use of UH email for sign-up; it makes the marketplace feel secure. However, I noticed the cart page could use a cleaner layout."
+  - "I really liked the use of UH email for sign-up; it makes the marketplace feel secure. However, I noticed the cart page could use a cleaner layout."
 **Suggestions:**
-- Revamp the cart interface to make it visually appealing and provide an estimated total before checkout.
+  - Revamp the cart interface to make it visually appealing and provide an estimated total before checkout.
 **Experience:**
-- Impressed by the security features and overall concept.
+  - Impressed by the security features and overall concept.
 
 ### 4. Mia (Undergraduate - Small Business Owner)
 **Feedback:**
-- "I loved being able to list my handmade items easily. However, I wish there was an option to promote listings to gain more visibility."
+  - "I loved being able to list my handmade items easily. However, I wish there was an option to promote listings to gain more visibility."
 **Suggestions:**
-- Introduce a feature to highlight or promote listings for a small fee or using community credits.
+  - Introduce a feature to highlight or promote listings for a small fee or using community credits.
 **Experience:**
-- Found the platform empowering for small business owners within the UH community.
+  - Found the platform empowering for small business owners within the UH community.
 
 ### 5. Ethan (Graduate - Accessibility Advocate)
 **Feedback:**
-- "I tested the site with a screen reader, and while most parts were accessible, some buttons lacked proper labels."
+  - "I tested the site with a screen reader, and while most parts were accessible, some buttons lacked proper labels."
 **Suggestions:**
-- Ensure all interactive elements have accessible labels and ARIA roles for better inclusivity.
+  - Ensure all interactive elements have accessible labels and ARIA roles for better inclusivity.
 **Experience:**
-- Appreciated the effort toward responsive design but emphasized the need for enhanced accessibility.
-
-### Summary of Findings
-- **Strengths:** Clean UI, responsive design, secure sign-up with UH emails, and easy-to-navigate categories.
-- **Areas for Improvement:** More robust filtering options, seller tools like promotion, a guided onboarding experience, improved cart design, and enhanced accessibility features.
-- **Overall Reception:** The community responded positively and saw the platform as a valuable addition to the UH ecosystem.
+  - Appreciated the effort toward responsive design but emphasized the need for enhanced accessibility.
 
 We will prioritize addressing the suggestions to make UHM Marketplace even better for its users.
 
