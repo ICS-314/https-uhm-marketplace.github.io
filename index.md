@@ -54,7 +54,7 @@ Through these features and technologies, UH Marketplace aims to become an essent
 
 - **Product Listings**: Browse through a vast collection of items listed by sellers.
 
-![](images/product-page.png)
+![](images/products.png)
 
 - **User Profiles**: Create a profile to manage your listings, purchases, and reviews. <br>
 *Users will create a profile using their University of Hawaii email (ending in @hawaii.edu) in order to secure the community that will be using the marketplace. Users must sign in before they are able to purchase, sell, or make any kind of transaction.*
@@ -63,7 +63,7 @@ Through these features and technologies, UH Marketplace aims to become an essent
 ![](images/create-profile.png)
 
 - **My Cart/Purchases**: Users will be able to click on their carts and see what they added and can proceed to make a transaction after reviewing their items.
-![](images/cart-page.png)
+![](images/cart.png)
   
 - **Reviews and Ratings**: Leave feedback for sellers and buyers to build trust within the community.
 
