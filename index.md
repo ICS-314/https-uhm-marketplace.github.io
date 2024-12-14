@@ -1,4 +1,4 @@
-# Welcome to UHM Marketplace
+# Welcome to UHM Marketplac
 
 ## Table of contents
 * [About UHM Marketplace](#about-uhm-marketplace)
