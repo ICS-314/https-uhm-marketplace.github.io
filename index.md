@@ -143,43 +143,53 @@ Through these features and technologies, UH Marketplace aims to become an essent
 We invited five community members to test UHM Marketplace and collected their insights. Below are their thoughts, which helped us understand the user experience and identify areas for improvement.
 
 ### 1. Alex (Student - Regular Online Shopper)
-**Feedback:**
+- **Feedback:**
   - "The design feels intuitive, and I love how responsive it is on my phone. However, the product filtering could be more detailed, like adding subcategories."
-**Suggestions:**
+    
+- **Suggestions:**
   - Add more filtering options such as by condition (new/used) or seller rating.
-**Experience:**
+    
+- **Experience:**
   - Positive overall; Alex appreciated the quick loading times and clean layout.
 
 ### 2. Jamie (Faculty - New to Online Marketplaces)
-**Feedback:**
-  - "The sign-up process was smooth, but I was a bit confused about how to list an item for sale initially. A tutorial would be helpful."\n
-**Suggestions:**
+- **Feedback:**
+  - "The sign-up process was smooth, but I was a bit confused about how to list an item for sale initially. A tutorial would be helpful."
+    
+- **Suggestions:**
   - Include a step-by-step guide or onboarding video for new sellers.
-**Experience:**
+    
+- **Experience:**
   - Found the platform user-friendly after spending a few minutes exploring.
 
 ### 3. Sam (Alumni - Tech Enthusiast)
-**Feedback:**
+- **Feedback:**
   - "I really liked the use of UH email for sign-up; it makes the marketplace feel secure. However, I noticed the cart page could use a cleaner layout."
-**Suggestions:**
+    
+- **Suggestions:**
   - Revamp the cart interface to make it visually appealing and provide an estimated total before checkout.
-**Experience:**
+    
+- **Experience:**
   - Impressed by the security features and overall concept.
 
 ### 4. Mia (Undergraduate - Small Business Owner)
-**Feedback:**
+- **Feedback:**
   - "I loved being able to list my handmade items easily. However, I wish there was an option to promote listings to gain more visibility."
-**Suggestions:**
+    
+- **Suggestions:**
   - Introduce a feature to highlight or promote listings for a small fee or using community credits.
-**Experience:**
+    
+- **Experience:**
   - Found the platform empowering for small business owners within the UH community.
 
 ### 5. Ethan (Graduate - Accessibility Advocate)
-**Feedback:**
+- **Feedback:**
   - "I tested the site with a screen reader, and while most parts were accessible, some buttons lacked proper labels."
-**Suggestions:**
+    
+- **Suggestions:**
   - Ensure all interactive elements have accessible labels and ARIA roles for better inclusivity.
-**Experience:**
+    
+- **Experience:**
   - Appreciated the effort toward responsive design but emphasized the need for enhanced accessibility.
 
 We will prioritize addressing the suggestions to make UHM Marketplace even better for its users.
